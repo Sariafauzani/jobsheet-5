@@ -23,6 +23,8 @@ public class PemilihanPercobaan226 {
             case 50:
                 grade = "C (Cukup)";
                 break;
+            case 40:
+                grade = "D (Kurang)";
             default:
                 grade = "E (Gagal)";
                 break;
