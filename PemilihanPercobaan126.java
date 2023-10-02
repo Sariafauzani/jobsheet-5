@@ -11,6 +11,6 @@ public class PemilihanPercobaan126 {
 
         String hasil;
         hasil = (angka % 2 == 0) ? " bilangan genap " : " bilangan ganjil ";
-        System.out.println("Angka " + angka + hasil);
+        System.out.println("Angka "  + hasil);
 }
 }
